@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/kpi-anomaly-detection/static/js/runtime~main.b07beab4.js"
   },
   {
-    "revision": "ca8a32815e38cfe37c57",
-    "url": "/kpi-anomaly-detection/static/js/main.ca8a3281.chunk.js"
+    "revision": "bb118c299f5d02e0e833",
+    "url": "/kpi-anomaly-detection/static/js/main.bb118c29.chunk.js"
   },
   {
-    "revision": "ad51bdb84f75a7b52ab7",
-    "url": "/kpi-anomaly-detection/static/js/1.ad51bdb8.chunk.js"
+    "revision": "134c05871b67c4305606",
+    "url": "/kpi-anomaly-detection/static/js/1.134c0587.chunk.js"
   },
   {
-    "revision": "ca8a32815e38cfe37c57",
+    "revision": "bb118c299f5d02e0e833",
     "url": "/kpi-anomaly-detection/static/css/main.cbe39e5c.chunk.css"
   },
   {
-    "revision": "ad51bdb84f75a7b52ab7",
+    "revision": "134c05871b67c4305606",
     "url": "/kpi-anomaly-detection/static/css/1.083d1e90.chunk.css"
   },
   {
-    "revision": "ffbf6555d22217823ee2e27a388dc1cc",
+    "revision": "d9ebd96085eab980ceb116fdd6403fe7",
     "url": "/kpi-anomaly-detection/index.html"
   }
 ];
